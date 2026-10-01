@@ -1,0 +1,6 @@
+{
+  "name": "Sahakar Saathi - PACS AI Kiosk",
+  "description": "Multilingual, voice-first AI governance kiosk and assistant for Primary Agricultural Credit Societies (PACS) under the Ministry of Cooperation, Government of India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
